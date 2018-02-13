@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { InnerpageComponent } from './innerpage/innerpage.component';
 /*import { TopNavComponent } from './dashboard/top-nav/top-nav.component';
 import { FooterComponent } from './dashboard/footer/footer.component';
 import { SideNavComponent } from './dashboard/side-nav/side-nav.component';*/
@@ -16,6 +17,7 @@ import { SideNavComponent } from './dashboard/side-nav/side-nav.component';*/
     AppComponent,
     LoginComponent,
     DashboardComponent,
+    InnerpageComponent,
     /*TopNavComponent,
     FooterComponent,
     SideNavComponent*/
